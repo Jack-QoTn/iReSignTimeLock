@@ -1,9 +1,23 @@
 # iReSignTimeLock
-iReSignTimeLock is a resigned  tool for ipa that can also set expiration time locks, and support change Bundle ID, Version or Build number.
+iReSignTimeLock is a Re-sign tool for any unencrypted .ipa or .xcarchive file, also can set a expiration time lock, and support change Bundle ID, Version and Build number.
+
 
 Preview
 =======
 ![ScreenShot](https://raw.githubusercontent.com/898mm/iReSignTimeLock/master/ScreenShot.png)
+
+
+What can do
+=======
+1. Re-sign any unencrypted .ipa or .xcarchive file.
+
+2. Change Bundle ID.
+
+3. Change Version number.
+
+4. Change Build number.
+
+5. Set a expiration time lock.
 
 
 Thanks to
